@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+   <meta charset="UTF-8">
+	
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>
+		Anya Kern Photo Portfolio
+		
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+	
+</title>
+   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+   <link href="style.css" type="text/css" rel="stylesheet"> 
+   
+ </head>
+ 
+<body id="top">
+		<a href="#top" class="logo">
+			
+					<img src="G:\My Drive\fehefuhge\images/Logo (transparent).png" alt="AK Photography Logo">
+					
+		</a>
+		
+<header>
+
+	<nav>
+        <a href="#home-page">HOME</a>
+        <a href="#portfolio-page">PORTFOLIO & SPECS</a>
+        <a href="#contact-page">CONTACT & INFO</a>
+    </nav>
+    
+<div class="header-section">
+
+			<h1>Anya Kern Photo</h1>
+			
+</div>
+
+					<img src="G:\My Drive\fehefuhge\images/IMG_6351.JPG" alt="my portrait">
+	
+</header>
+
+    
+<div id="home-page" class="page-section">
+
+<div class="content-container">
+
+            <h2>Welcome to My Photography Portfolio</h2>
+            
+           
+				<p class="intro-text">
+                I specialize in capturing fast-paced sports action with a focus on dramatic moments and raw emotion.
+				</p>
+
+<div class="home-gallery">
+
+<div class="home-gallery-item">
+                    <img src="G:\My Drive\fehefuhge\images/8M9U2617.jpg" alt="Get Into Position">
+</div>
+
+<div class="home-gallery-item">
+                    <img src="G:\My Drive\fehefuhge\images/8M9U5477.jpg" alt="The Final Attempt">
+</div>
+
+<div class="home-gallery-item">
+                    <img src="G:\My Drive\fehefuhge\images/IMG_6464.JPG" alt="The Weight of the Game">
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+<div id="portfolio-page" class="page-section">
+
+<div class="content-container">
+            
+            <h2>Recent Work Showcase</h2>
+<div class="portfolio-gallery">
+              
+                <a href="" target="_blank" class="photo-link" title="View Full Football Album">
+				
+<div class="photo">
+                        <img src="uploaded:8M9U2617.jpg-494896c2-1125-43af-97bb-ded2a8b4ba8c" alt="Football Team Huddle">
+                        <p class="caption">FOOTBALL ALBUM: The Gridiron Clash</p>
+</div>
+                </a>
+                
+           
+                <a href="https://photos.app.goo.gl/hockey-album-id-2" target="_blank" class="photo-link" title="View Full Hockey Album">
+                    <div class="photo">
+                         <img src="G:\My Drive\fehefuhge\images/IMG_6464.JPG" alt="The Weight of the Game">
+                        <p class="caption"> SUNY Plattsburgh vs. Union</p>
+                    </div>
+                </a>
+                
+           
+                <a href="https://photos.app.goo.gl/football-album-id-1" target="_blank" class="photo-link" title="View Full Football Album">
+                    <div class="photo">
+                        <img src="uploaded:8M9U2617.jpg-494896c2-1125-43af-97bb-ded2a8b4ba8c" alt="Football Team Huddle (Repeated)">
+                        <p class="caption">ADDITIONAL ALBUM: Teamwork & Strategy</p>
+</div>
+                </a>
+
+               
+                
+<div class="link">
+	   
+                <a href="https://anyakernphoto.mypixieset.com/">My Full Portfolio
+					   
+				</a>
+                        <p class="caption">My Full Portfolio</p>
+</div>
+                
+</div>
+
+         
+            <h2>My Gear Specs</h2>
+            <p>A list of the gear and software I use</p>
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th>Item</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+				
+            <tbody>
+			
+                    <tr>
+                        <td>Camera Body</td>
+						
+                        <td>Canon EOS 1D Mark III</td>
+						
+                    </tr>
+                    <tr>
+                        <td>Primary Lens</td>
+						
+                        <td>Sigma 50-500mm f/4-5.6 Zoom Lens </td>
+					
+                    </tr>
+					
+                    <tr>
+                        <td>Editing Software</td>
+                        <td>Adobe Lightroom & Photoshop</td>
+                    </tr>
+					
+            </tbody>
+				
+            </table>
+</div>
+		
+</div>
+
+
+<div id="contact-page" class="page-section">
+
+<div class="content-container">
+            
+            <h2>Get In Touch</h2>
+			
+			<p>This is here if you have any questions you want answered about my services.</p>
+
+	<form action="#" method="POST">
+	
+        <label for="name">Name:</label>
+		
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+				
+        <input type="email" id="email" name="email" required>
+				
+		<label for="message">Message:</label>
+		
+        <textarea id="message" name="message" required></textarea>
+
+                <button type="submit">Send Message</button>
+				
+	</form>
+            
+</div>
+		
+</div>
+
+
+			<a href="#top" class="back-to-top" title="Back to Top">&#9650;</a>
+    
+</body>
+</html>
